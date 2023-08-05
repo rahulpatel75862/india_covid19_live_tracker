@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/india_covid19_live_tracker/static/css/main.3a181ddd.css",
+    "main.js": "/india_covid19_live_tracker/static/js/main.7894177c.js",
+    "index.html": "/india_covid19_live_tracker/index.html",
+    "main.3a181ddd.css.map": "/india_covid19_live_tracker/static/css/main.3a181ddd.css.map",
+    "main.7894177c.js.map": "/india_covid19_live_tracker/static/js/main.7894177c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a181ddd.css",
+    "static/js/main.7894177c.js"
+  ]
+}
